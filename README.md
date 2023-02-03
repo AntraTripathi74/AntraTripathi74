@@ -20,6 +20,10 @@
 -SQL <br>
 <br>
 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AntraTripathi74&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntraTripathi74&layout=compact)](https://github.com/AntraTripathi74/github-readme-stats)
+
+
 **Contact Me:**<br>
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antratripathi74/)
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tripathiantra074@gmail.com)
