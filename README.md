@@ -15,6 +15,7 @@
 -Jupyter Notebook <br>
 -Visual Studio <br>
 -PyCharm <br>
+-Flutter <br>
 -Flask <br>
 -HTML <br>
 -SQL <br>
