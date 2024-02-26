@@ -39,7 +39,7 @@
 
 **Extras:** <br>
 <a href="https://drive.google.com/drive/folders/1CaNKgrX77ZAem4Bau26WUSlAgjYIryhv?usp=share_link">-📜My Certificates</a><br>
-<a href="https://drive.google.com/file/d/1dL_8gBNSpSzfakHnALy2wjFzNpRgdB-v/view?usp=drive_link">-📝Resume</a>
+<a href="https://drive.google.com/file/d/1AJ1TAZeYgFzmvxKMtK8ThG-RoV__xUcz/view?usp=sharing">-📝Resume</a>
 
 
 
