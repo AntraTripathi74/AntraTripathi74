@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Antra</h1>
 <br>
 -🔭 I’m currently working on something cool.<br>
--🌱 I’m currently learning ML, Data Science, Cloud.<br>
+<!-- -🌱 I’m currently learning ML, Data Science, Cloud.<br> -->
 -💬 Ask me about Python, ML, Data Analytics.<br>
 -😄 Pronouns: She/her <br>
--⚡ Fun fact: Besides Programming, I enjoy reading books and sleeping.<br>
+-⚡ Fun fact: Besides Programming, I enjoy reading books and gaming.<br>
 <br>
 <br>
 
