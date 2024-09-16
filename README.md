@@ -9,8 +9,9 @@
 <br>
 
 **Technologies:**<br>
--C++ <br>
+-Machine Leaarning<br>
 -Python <br>
+-C++ <br>
 -Anaconda <br>
 -Jupyter Notebook <br>
 -Visual Studio <br>
@@ -38,7 +39,7 @@
 <br>
 
 **Extras:** <br>
-<a href="https://drive.google.com/file/d/17s3jiVBWhzjrKgIFnJbmn-aGu2RJ_NIE/view?usp=drive_link">-📝Resume</a>
+<a href="https://docs.google.com/document/d/1S6Is_YQ9P9nOZe0fc6L_u9gmKFIypY0MnBf52ugMXRw/edit?usp=sharing">-📝Resume</a>
 
 
 
