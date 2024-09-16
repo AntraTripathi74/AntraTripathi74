@@ -12,6 +12,7 @@
 -Machine Leaarning<br>
 -Python <br>
 -C++ <br>
+-GCP <br>
 -Anaconda <br>
 -Jupyter Notebook <br>
 -Visual Studio <br>
