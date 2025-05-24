@@ -1,49 +1,66 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey there, I'm Antra</h1>
-<br>
--🔭 I’m currently working on something cool.<br>
-<!-- -🌱 I’m currently learning ML, Data Science, Cloud.<br> -->
--💬 Ask me about Python, ML, Data Analytics.<br>
--😄 Pronouns: She/her <br>
--⚡ Fun fact: Besides Programming, I enjoy reading books and gaming.<br>
-<br>
-<br>
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hey there, I'm Antra! 👋</h1>
 
-**Technologies:**<br>
--Machine Leaarning<br>
--Python <br>
--C++ <br>
--GCP <br>
--Anaconda <br>
--Jupyter Notebook <br>
--Visual Studio <br>
--PyCharm <br>
--Flutter <br>
--Flask <br>
--HTML <br>
--SQL <br>
-<br>
+---
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AntraTripathi74&count_private=true&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntraTripathi74&layout=compact)](https://github.com/AntraTripathi74/github-readme-stats)
+### 🚀 About Me
 
+- 🧠 Exploring the latest in Machine Learning, Generative AI, and Cloud technologies to continuously grow my toolkit.
+- 🌱 Currently working with GCP, Gemini LLMs, and workflow automation platforms to build scalable solutions.
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: When I’m not coding, you’ll likely find me diving into a good book or experimenting with new hobbies!
 
-**Contact Me:**<br>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/antratripathi74/)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:tripathiantra074@gmail.com)
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/antra._.tripathi/?next=%2F)
-![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white&link=https://twitter.com/_tripathiii) <br>
-<br>
+---
 
-**Coding Platform:**<br>
-![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/2001641540013_DS)
-![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06&link=https://leetcode.com/antrat/) <br>
-<br>
+### 🌟 Featured Projects
 
-**Extras:** <br>
-<a href="https://docs.google.com/document/d/1S6Is_YQ9P9nOZe0fc6L_u9gmKFIypY0MnBf52ugMXRw/edit?usp=sharing">-📝Resume</a>
+#### 💬 **Sentiment Analysis for Sales Calls**
+- Built a **Streamlit app** powered by **Gemini 1.5 Pro** to analyze sales call transcripts.
+- Automatically identifies client sentiment, summarizes calls, and suggests areas of improvement for sales reps.
 
+#### 📊 **Natural Language to SQL (NL2SQL)**
+- Developed an intelligent agent that converts natural language questions into **SQL queries** for seamless data access on **GCP BigQuery**.
 
+#### 🤖 **AI Sales Development Representative (SDR) Workflow**
+- End-to-end **n8n** workflow that automates lead generation, LinkedIn scraping (via **RapidAPI**), LLM-driven lead qualification, and personalized outreach emails.
 
+#### 🗂️ **Multilingual Document Summarizer**
+- A **Gradio-based web app** using **Document AI OCR** + **Gemini** to summarize documents across multiple languages with high accuracy.
 
+---
 
+### 📜 Certifications
 
+- 🎓 Google Cloud Professional Cloud Architect (2024)
+- 🎓 Supervised Machine Learning: Regression & Classification – *Stanford University (Coursera)*
+
+---
+
+### 💻 Tech Stack & Tools
+
+| Category           | Tools & Technologies                                            |
+| :----------------- | :-------------------------------------------------------------- |
+| **Languages**      | Python, SQL, C++, HTML                                          |
+| **ML & GenAI**     | Scikit-learn, Gemini 1.5, TensorFlow, RAG      |
+| **Cloud & AI**     | GCP, Vertex AI, BigQuery, Dialogflow CX                         |
+| **Frameworks**     | Flask                                                           |
+| **Web/UI**         | Streamlit, Gradio, Flutter               |
+| **Automation**     | n8n                |
+| **Tools**          | Jupyter Notebook, Anaconda, VS Code, PyCharm, Figma             |
+
+---
+
+### 📊 GitHub Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=AntraTripathi74&count_private=true&show_icons=true&theme=dark&hide_border=true)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AntraTripathi74&layout=compact&theme=dark&hide_border=true)](https://github.com/AntraTripathi74/github-readme-stats)
+
+---
+
+### 🌐 Let's Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antratripathi74/)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tripathiantra074@gmail.com)  ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+
+---
+
+### 📄 Quick Links
+
+- [📝 My Resume](https://drive.google.com/file/d/1_VMQ42vonnD-sxgWvxGOK8qSZdSQehIg/view?usp=drive_link)
