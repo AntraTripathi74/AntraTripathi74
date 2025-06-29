@@ -64,3 +64,7 @@
 ### 📄 Quick Links
 
 - [📝 My Resume](https://drive.google.com/file/d/1_VMQ42vonnD-sxgWvxGOK8qSZdSQehIg/view?usp=drive_link)
+
+---
+
+ ![Visitors](https://komarev.com/ghpvc/?username=AntraTripathi74)
