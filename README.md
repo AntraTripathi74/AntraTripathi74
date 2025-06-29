@@ -7,7 +7,7 @@
 - 🧠 Exploring the latest in Machine Learning, Generative AI, and Cloud technologies to continuously grow my toolkit.
 - 🌱 Currently working with GCP, Gemini LLMs, and workflow automation platforms to build scalable solutions.
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: When I’m not coding, you’ll likely find me diving into a good book or experimenting with new hobbies!
+- ⚡ Fun fact: When I’m not coding, you’ll likely find me diving into a good book or finding new hobbies!
 
 ---
 
