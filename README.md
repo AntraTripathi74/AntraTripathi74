@@ -63,7 +63,7 @@
 
 ### 📄 Quick Links
 
-- [📝 My Resume](https://drive.google.com/file/d/1_VMQ42vonnD-sxgWvxGOK8qSZdSQehIg/view?usp=drive_link)
+- [📝 My Resume](https://drive.google.com/file/d/1IXGXJseK_Z-xSidkz-jenbGpciEW01F2/view?usp=drive_link)
 
 ---
 
