@@ -30,6 +30,7 @@
 
 ### 📜 Certifications
 
+- 🎓 Google Cloud Generative AI Leader (2025)
 - 🎓 Google Cloud Professional Cloud Architect (2024)
 - 🎓 Supervised Machine Learning: Regression & Classification – *Stanford University (Coursera)*
 
